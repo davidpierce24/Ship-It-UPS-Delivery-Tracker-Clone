@@ -3,7 +3,7 @@
 
 # Ship It - UPS tracking clone built in React Native
 
-This is my second React Native project and another project to learn some additional skills and improve in React Native. This was my first time using TypeScript and GraphQL. This was also my first time using Firebase, and it was quite smooth for this simple project. Finally, Tailwind is as awesome as ever, definitely my favorite styling library! 
+This is my second React Native project and another project to learn some additional skills and improve in React Native. This was my first time using TypeScript and GraphQL. This was also my first time using Firebase, and it was quite smooth for this simple project. Finally, Tailwind is as awesome as ever, definitely my favorite styling library! Thanks to Sonny Sangha for the instruction!
 
 ## Tools Used
 
